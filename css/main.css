@@ -254,6 +254,7 @@ body {
           padding: 7px 3px;
           transition: 0.3s ease;
           cursor: pointer;
+          align-items: center;
 
           &:hover {
             background-color: #fff3;
